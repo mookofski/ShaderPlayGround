@@ -1,0 +1,12 @@
+
+Library/
+
+*.cache
+
+obj/Debug/
+
+*.csproj
+
+Temp/
+
+*.sln
